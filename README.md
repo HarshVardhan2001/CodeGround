@@ -12,7 +12,7 @@ CodeGround is using [**Judge0**](https://api.judge0.com) for executing user's so
 Visit https://ide.judge0.com, enjoy and happy coding. :)
 
 ## Author and Contributors
-Codeground was created by [harshvardhan](https://#),[Parv Kumar](https://#),[Rahul Gupta](https://#),[Deepak Rajput](https://#).
+Codeground was created by [harshvardhan](https://github.com/HarshVardhan2001/),[Parv Kumar](https://#),[Rahul Gupta](https://#),[Deepak Rajput](https://#).
 
 ## License
 Judge0 IDE is licensed under the [MIT License](https://github.com/HarshVardhan2001/CodeGround/blob/main/LICENSE).
